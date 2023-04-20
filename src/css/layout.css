@@ -1,0 +1,17 @@
+#root{
+    display: flex;
+    padding-left: 20%;
+}
+nav{
+    position:fixed;
+    left: 5%;
+    top: 125px;
+}
+main{
+    width: 70%;
+}
+header{
+    display: flex;
+    font-size: 125px;
+    align-items: center;
+}

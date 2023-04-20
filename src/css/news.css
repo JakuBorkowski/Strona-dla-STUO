@@ -1,0 +1,12 @@
+.newsList{
+    display: flex;
+    flex-direction: column;
+  }
+.newsPageList{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 90%;
+    margin-left: 5%;
+}

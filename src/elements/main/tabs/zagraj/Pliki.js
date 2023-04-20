@@ -1,0 +1,7 @@
+function Pliki() {
+    return(
+        <>
+        Come down off your high horse, Who do you think you are, just a clown in a one horse town, In a broke down second-hand car, Can you still get it up, Or are we pushing too hard, If you wanna get your hands on a beautiful girl, You gotta use a Mastercard. (First chorus) There's no excuse for bullshit So don't try to feed me none, You better shake some action, Bring it on, bring it on. You don't like the way we speak, You don't like it when you lose, Shouldn't be sad, don't get mad, Or we gonna teach you how to sing the blues. Get on your horse and ride. Where shall we go today, Let's go to a place I know, Where the speed freaks babble afi day, Can you still talk dirty, Or are you gonna be mean, If you ever speak to a beautiful girl, She'll laugh you right out of your jeans. (Second chorus) There's no reason we should listen, Why do you talk so much. You better bite your finger, Bring it up, bring it up, You don't like the way we fight, You don't have a fucking clue, You won't be great, but don't be late, Or we gonna teach you how to sing the blues. (Third chorus) There's nothing out here for you, Why did you wait so long, You better shake your moneymaker, Bring it on, bring it on, You don't like the way we laugh, At you and your retro shoes, Don't be a heel, or an imbecile, Or we gonna teach you how to sing the blues, You ain't gonna be no hero, 'Cos you ain't got nothin' to lose, So move it out and shut your mouth, Or we gonna teach you how to sing the blues.        </>
+    )
+}
+export default Pliki

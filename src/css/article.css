@@ -1,0 +1,21 @@
+  .mainArticle {
+    padding: 50px;
+    min-width: 250px;
+  }
+  .mainArticle > img {
+    float: left;
+    height: 100px;
+    margin-right: 5px;
+  }
+  .mainArticle > p{
+    text-indent:25px
+  }
+  .mainArticle :nth-child(2){
+    text-indent: 0;
+  }
+  .firstLetter{
+    float: left;
+    font-size: 100px;
+    margin-right: 5px;
+    line-height: 80px;
+  }
